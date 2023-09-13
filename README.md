@@ -59,4 +59,6 @@ O código repete esse ciclo continuamente, a menos que haja um erro durante a
 inicialização do RTC, caso em que ele fica preso em um loop infinito. </br></br>
 
 ## 🖥️ Design
-<img src="/img/design.png">
+<img src="/img/design.png"></br>
+Representação gráfica do design eletrônico. </br>
+
