@@ -27,7 +27,7 @@ BUZZER, LEDs, etc.).
 Conectar o display LCD usando uma conexão I2C, geralmente SDA e SCL.
 • Inicialização:
 Quando você liga o Arduino, ele inicializa os componentes, como o RTC, display
-LCD e define os pinos como entrada/saída.
+LCD e define os pinos como entrada/saída. </br>
 • Tela de Inicialização:
 Durante a inicialização, a tela LCD mostra uma animação com caracteres
 personalizados (FESA e um coração).
