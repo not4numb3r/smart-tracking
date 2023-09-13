@@ -15,14 +15,11 @@ const int BUZZER_PIN = 13;
 int ledVermelho = 7;
 bool inicio = true;
 
- 
-
 //VARIÁVEIS
 dht DHT; //OBJETO dht DO TIPO DHT (para conseguir chamar as funções do dht)
 int temperatura = 0; //declaração de variáveis
 int umidade = 0;
 int luminosidade = 0;
-
 
 int temperaturaMedia = 0; //declaração de variáveis para as médias
 int umidadeMedia = 0;
@@ -31,7 +28,6 @@ int leituras = 0;
 
 unsigned long intervalo = 60000; //intervalo de 1 minuto para cálculo das médias
 unsigned long ultimaLeitura = 0; //variável para salvar ultima leitura
-
 
 //Impressão do nome FESA na tela.
 byte fesa[8] = {
