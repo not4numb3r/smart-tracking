@@ -25,8 +25,6 @@ Resistores
 1 Suporte para bateria
  
 ## 💻 To start web application
-- $ cd moveit-next
-- $ yarn (to install dependences).
-- $ yarn dev (to start the web application).
+
 
 ## 🖥️ Design
