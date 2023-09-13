@@ -1,9 +1,9 @@
 # smart-tracking
 
-## 🌐 The Project
+## 🌐 O Projeto
 PoC (Proof of Concept) baseado na plataforma Arduino UNO R3 que permite medir os valores médios de luminosidade, temperatura e umidade de um ambiente.
 
-## 🚀 Technologies
+## 🚀 Tecnologias
 
 <b>Componentes </b>: </br>
 • Arduino Uno ou similar. </br>
