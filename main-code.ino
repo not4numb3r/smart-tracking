@@ -113,6 +113,7 @@ void setup()
         rtc.adjust(DateTime(F(__DATE__), F(__TIME__))); //CAPTURA A DATA E HORA EM QUE O SKETCH É COMPILADO
     }
     delay(100); //INTERVALO DE 100 MILISSEGUNDOS
+}
 
 void loop()
 {
