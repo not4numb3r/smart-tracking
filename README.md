@@ -4,14 +4,15 @@
 PoC (Proof of Concept) baseado na plataforma Arduino UNO R3 que permite medir os valores médios de luminosidade, temperatura e umidade de um ambiente.
 
 ## 🚀 Technologies
+
 Componentes:
 • Arduino Uno ou similar.
-
 • Sensor DHT11 para medição de temperatura e umidade.
 • Sensor de luminosidade (LDR).
 • Display LCD com conexão I2C.
 • Buzzer para reproduzir sons.
 • LEDs conectados a pinos digitais (neste código, um LED vermelho).
+
 Bibliotecas:
 • "dht.h" (para o sensor DHT11).
 • "RTClib.h" (para o RTC DS3231).
