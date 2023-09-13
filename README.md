@@ -6,6 +6,7 @@ PoC (Proof of Concept) baseado na plataforma Arduino UNO R3 que permite medir os
 ## 🚀 Technologies
 Componentes:
 • Arduino Uno ou similar.
+
 • Sensor DHT11 para medição de temperatura e umidade.
 • Sensor de luminosidade (LDR).
 • Display LCD com conexão I2C.
