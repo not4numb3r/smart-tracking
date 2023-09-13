@@ -1,12 +1,4 @@
 # smart-tracking
-<p align="center">
-  <img alt="Moveit" src=".github/logo.png" width="30%">
-</p>
-
-<p align="center">
-  <img alt="Moveit" src=".github/moveitscreen.png" width="80%">
-</p>
-
 
 ## 🌐 The Project
 PoC (Proof of Concept) baseado na plataforma Arduino UNO R3 que permite medir os valores médios de luminosidade, temperatura e umidade de um ambiente.
